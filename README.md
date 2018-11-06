@@ -1,1 +1,0 @@
-# Intro-Financial-Concepts-Python
